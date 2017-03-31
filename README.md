@@ -1,5 +1,5 @@
 # Brownian-Particle-Escape-Problem
-Investigating Random Walk and Escape of Brownian Particles 
+## Investigating Random Walk and Escape of Brownian Particles 
 
 This is a research project runs MonteCarlo Simulation to investigate Brownian Particle's behaviors on an Euclidean plan.
 The modle has the flexibility to adapt different algorithms for particle's movement, starting point, 
